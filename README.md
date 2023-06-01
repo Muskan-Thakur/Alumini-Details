@@ -1,4 +1,4 @@
-# Alumini-Details
+# Alumini-Details(Swing)
 
 Software used:Netbeans Apache12.2,Derby10.01
 
